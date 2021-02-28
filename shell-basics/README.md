@@ -30,3 +30,25 @@ chmod u+x name file
 REMOVE PERMISSION
 
 chmod u-x name file 
+
+clear: clean the terminal
+
+pwd: see the directory in wich i am
+
+cd: go to a directory or quickly return to the root directory
+
+rm: remove files
+
+cp: copy files and folders
+
+mv: move files and folders or rename them 
+
+#Flags cd
+
+cd -: go back to  last directory
+
+cd ..: go back to the previous directory i'm from 
+
+#Flags rm
+
+rm -r: serves to remove folders 
