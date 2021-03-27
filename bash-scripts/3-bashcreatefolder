@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir carpeta1
+cd carpeta1
+touch archivo1
+touch archivo2
+touch archivo3
