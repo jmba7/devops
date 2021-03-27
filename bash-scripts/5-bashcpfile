@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir foldercp
+cd foldercp
+touch filecp
+cp filecp filecpnew

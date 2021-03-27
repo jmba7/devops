@@ -1,0 +1,5 @@
+#!/bin/bash
+cd carpeta1
+rm archivo1
+rm archivo2
+rm archivo3
