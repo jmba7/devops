@@ -1,0 +1,6 @@
+#!/bin/bash
+rm uno
+rm dos
+rm tres
+rm cuatro
+rm cinco
