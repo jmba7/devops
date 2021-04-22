@@ -1,6 +1,6 @@
 #!/bin/bash
-mkdir carpeta1
-cd carpeta1
-touch archivo1
-touch archivo2
-touch archivo3
+mkdir folder1
+cd folder1
+touch file1
+touch file2
+touch file3

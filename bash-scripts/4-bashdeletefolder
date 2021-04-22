@@ -1,5 +1,6 @@
 #!/bin/bash
-cd carpeta1
-rm archivo1
-rm archivo2
-rm archivo3
+cd folder1
+rm file1
+rm file2
+rm file3
+

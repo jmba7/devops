@@ -1,6 +1,6 @@
 #!/bin/bash
-touch uno
-touch dos
-touch tres
-touch cuatro
-touch cinco
+touch One
+touch Two
+touch Three
+touch Four
+touch Five
