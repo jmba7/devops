@@ -1,8 +1,8 @@
 # bash-scripts
 
 ## **What is git**
-B
-Git is a version control system.
+
+Git is a *version control system*.
 
 ### What is a version control system for? 
 
@@ -16,17 +16,17 @@ Github is a portal created to host the code of any developer's applications
 ## **What is shebang?**
 
 In computing, a shebang is the character sequence consisting of the characters number sign and exclamation mark
-at the beginning of a script (#!)
+at the beginning of a script *#!*
 
 ![image taken from Monhenkashi](https://miro.medium.com/max/2444/1*NPQDt9Xnt0VEgygyC3BTgw.png)
 
 ## **Steps to create a script**
 
-- Create a file using a editor(or any other editor).
-- Start the script with #!/bin/sh
+- Create a file using a editor *(or any other editor)*.
+- Start the script with *#!/bin/sh*
 - Write some code
 - Save the script
-- Make it executable with command: chmod u+x filename
+- Make it executable with command: **chmod u+x filename**
 
 ## How to run a script in bash?
 To execute a script we use a punctuation mark, the slash and the name of the script (./bashdelete)
