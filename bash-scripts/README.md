@@ -18,6 +18,8 @@ Github is a portal created to host the code of any developer's applications
 In computing, a shebang is the character sequence consisting of the characters number sign and exclamation mark
 at the beginning of a script (#!)
 
+![image taken from https://mohsenkashi.medium.com/](https://mohsenkashi.medium.com/shell-scripting-select-the-shebang-more-effective-a361582113d4)
+
 ## **Steps to create a script**
 
 - Create a file using a editor(or any other editor).
